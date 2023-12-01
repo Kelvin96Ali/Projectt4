@@ -253,3 +253,4 @@
 /home/elemento/Escritorio/Nueva carpeta/fixes/obj/Debug/net8.0/fixes.pdb
 /home/elemento/Escritorio/Nueva carpeta/fixes/obj/Debug/net8.0/fixes.genruntimeconfig.cache
 /home/elemento/Escritorio/Nueva carpeta/fixes/obj/Debug/net8.0/ref/fixes.dll
+/home/elemento/Escritorio/Nueva carpeta/fixes/obj/Debug/net8.0/fixes.sourcelink.json
